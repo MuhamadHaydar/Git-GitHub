@@ -17,13 +17,24 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help? 
 
+  branches would be helpful when we want to make another version or add an expermental feauters to 
+  application, branches such as saying: here is a new way when u have application then add feauters.
+
 How do the diagrams help you visualize the branch structure?
+
+  the diagrams are pretty powerful to understand the commits rechable.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  we can add two branches together by checking out the master then merge it with coins(ex)
+  then, it well add new commit ass merge branch coins. then we have to delete the lable of 
+  coins, which whole of commits in coin well be part of mastert.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
+  if it is automatically, commits will be countless, but when it is manually, it well be better
+  anytime we want, we can make a commit.
    
 
