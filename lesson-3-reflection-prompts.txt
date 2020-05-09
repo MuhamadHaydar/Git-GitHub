@@ -21,7 +21,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    having a copy of remote have some benifets, one of them is that u can work on it using git and make commits over it.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
